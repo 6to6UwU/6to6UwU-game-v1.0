@@ -1,0 +1,7 @@
+C:\Users\Tedi\documents\visual studio 2010\Projects\6to6UwU game v1.0\6to6UwU game v1.0\bin\Debug\6to6UwU game v1.0.exe
+C:\Users\Tedi\documents\visual studio 2010\Projects\6to6UwU game v1.0\6to6UwU game v1.0\bin\Debug\6to6UwU game v1.0.pdb
+C:\Users\Tedi\documents\visual studio 2010\Projects\6to6UwU game v1.0\6to6UwU game v1.0\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tedi\documents\visual studio 2010\Projects\6to6UwU game v1.0\6to6UwU game v1.0\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tedi\documents\visual studio 2010\Projects\6to6UwU game v1.0\6to6UwU game v1.0\obj\x86\Debug\6to6UwU game v1.0.csproj.GenerateResource.Cache
+C:\Users\Tedi\documents\visual studio 2010\Projects\6to6UwU game v1.0\6to6UwU game v1.0\obj\x86\Debug\6to6UwU game v1.0.exe
+C:\Users\Tedi\documents\visual studio 2010\Projects\6to6UwU game v1.0\6to6UwU game v1.0\obj\x86\Debug\6to6UwU game v1.0.pdb
